@@ -211,6 +211,7 @@ setup(
         'License :: OSI Approved :: Apache Software License',
         'Operating System :: Unix',
         'Programming Language :: Python',
+        'Programming Language :: Python :: 3.13',
         'Topic :: Text Processing :: Linguistic',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
